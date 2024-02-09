@@ -1,0 +1,82 @@
+{
+  "id": "/",
+  "name": "packsporn",
+  "short_name": "packsporn",
+  "description": "Packs porno gratis de alta calidad en PacksPorn. Recopilación de fotos de pervertidas que harán que explotes de placer.",
+  "start_url": "https://www.packsporn.com/",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "sizes": "120x120",
+      "src": "https://cdn.jsdelivr.net/gh/shases/packsporn/apple-touch-icon-120x120.png"
+    },
+    {
+      "sizes": "152x152",
+      "src": "https://cdn.jsdelivr.net/gh/shases/packsporn/apple-touch-icon-152x152.png"
+    },
+    {
+      "sizes": "180x180",
+      "src": "https://cdn.jsdelivr.net/gh/shases/packsporn/apple-touch-icon-180x180.png"
+    },
+    {
+      "sizes": "60x60",
+      "src": "https://cdn.jsdelivr.net/gh/shases/packsporn/apple-touch-icon-60x60.png"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/shases/packsporn/app-icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/shases/packsporn/app-icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/shases/packsporn/maskable_icon.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://cdn.jsdelivr.net/gh/shases/packsporn/screenshot1.png",
+      "type": "image/png",
+      "sizes": "540x720",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/shases/packsporn/screenshot2.png",
+      "type": "image/png",
+      "sizes": "540x720",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/shases/packsporn/screenshot3.png",
+      "type": "image/png",
+      "sizes": "540x720",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/shases/packsporn/screenshot4.png",
+      "type": "image/png",
+      "sizes": "720x540",
+      "form_factor": "wide"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/shases/packsporn/screenshot5.png",
+      "type": "image/png",
+      "sizes": "720x540",
+      "form_factor": "wide"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/shases/packsporn/screenshot6.png",
+      "type": "image/png",
+      "sizes": "720x540",
+      "form_factor": "wide"
+    }
+  ]
+}
